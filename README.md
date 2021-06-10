@@ -28,14 +28,18 @@ Users should be able to:
 
 ### Screenshot
 
-[![Desktop_version](https://github.com/LidiaRJ/insure-landing-page/blob/main/screenshots/insure-landing-page-desktop.jpg)](https://github.com/LidiaRJ/insure-landing-page/blob/main/screenshots/insure-landing-page-desktop.jpg)
-[![Mobile_version](https://github.com/LidiaRJ/insure-landing-page/blob/main/screenshots/insure-landing-page-mobile.jpg)](https://github.com/LidiaRJ/insure-landing-page/blob/main/screenshots/insure-landing-page-mobile.jpg)
+[![Desktop_version](https://github.com/LidiaRJ/loop-studios-landingpage/blob/main/screenshot/screencapture-127-0-0-1-5500-loopstudios-landing-page-main-index-html-2021-06-09-16_03_50.jpg)](https://github.com/LidiaRJ/loop-studios-landingpage/blob/main/screenshot/screencapture-127-0-0-1-5500-loopstudios-landing-page-main-index-html-2021-06-09-16_03_50.jpg)
+
+
+[![Mobile_version]((https://github.com/LidiaRJ/loop-studios-landingpage/blob/main/screenshot/screencapture-127-0-0-1-5500-loopstudios-landing-page-main-index-html-2021-06-09-15_20_46.jpg))](https://github.com/LidiaRJ/loop-studios-landingpage/blob/main/screenshot/screencapture-127-0-0-1-5500-loopstudios-landing-page-main-index-html-2021-06-09-15_20_46.jpg)
+
+[![Mobile_version](https://github.com/LidiaRJ/loop-studios-landingpage/blob/main/screenshot/screencapture-127-0-0-1-5500-loopstudios-landing-page-main-index-html-2021-06-09-15_21_06.jpg)](https://github.com/LidiaRJ/loop-studios-landingpage/blob/main/screenshot/screencapture-127-0-0-1-5500-loopstudios-landing-page-main-index-html-2021-06-09-15_21_06.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [(https://github.com/LidiaRJ/loop-studios-landingpage)](https://github.com/LidiaRJ/loop-studios-landingpage)
+- Live Site URL: [(https://lidiarj.github.io/loop-studios-landingpage/)](https://lidiarj.github.io/loop-studios-landingpage/)
 
 ## My process
 
